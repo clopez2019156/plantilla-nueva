@@ -1,4 +1,10 @@
+$(document).ready(function(){
+    $('#tabla_llamada').DataTable();
+});
+
+
 /*!
+
     * Start Bootstrap - SB Admin Pro v1.3.0 (https://shop.startbootstrap.com/product/sb-admin-pro)
     * Copyright 2013-2020 Start Bootstrap
     * Licensed under SEE_LICENSE (https://github.com/StartBootstrap/sb-admin-pro/blob/master/LICENSE)
